@@ -3,7 +3,7 @@ Description: Enforce prompt template for all user messages.
 alwaysApply: true
 ---
 
-## Prompt Template Enforcement
+## Prompt Template Enforcement - testing
 
 Before responding to ANY user request, validate that the message contains the required structure.
 
